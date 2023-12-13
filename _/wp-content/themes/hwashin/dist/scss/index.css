@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Roboto-Bold;
+  font-display: swap;
+  src: url("../fonts/Roboto-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-Regular;
+  font-display: swap;
+  src: url("../fonts/Roboto-Regular.ttf") format("truetype"); }
+@font-face {
+  font-family: Roboto-Medium;
+  font-display: swap;
+  src: url("../fonts/Roboto-Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: Sarabun-Bold;
+  font-display: swap;
+  src: url("../fonts/Sarabun-Bold.ttf") format("truetype"); }
+@font-face {
+  font-family: Sarabun-SemiBold;
+  font-display: swap;
+  src: url("../fonts/Sarabun-SemiBold.ttf") format("truetype"); }
+@font-face {
+  font-family: Sarabun-Medium;
+  font-display: swap;
+  src: url("../fonts/Sarabun-Medium.ttf") format("truetype"); }
+@font-face {
+  font-family: Sarabun-Regular;
+  font-display: swap;
+  src: url("../fonts/Sarabun-Regular.ttf") format("truetype"); }
+
+/*# sourceMappingURL=index.css.map */
